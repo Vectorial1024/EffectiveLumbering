@@ -9,5 +9,5 @@
 		<li>0.19</li>
 		<li>0.18</li>
 	</supportedVersions>
-	<description>A very simple patch-mod that reduces the time required to sow trees. Work required to sow trees is now 2000.</description>
+	<description>A very simple patch-mod that reduces the time required to sow trees. Work required to sow trees is now 2000, instead of 4000.</description>
 </ModMetaData>
