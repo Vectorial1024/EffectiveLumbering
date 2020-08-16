@@ -4,10 +4,13 @@
 	<name>Effective Lumbering</name>
 	<author>Vectorial1024</author>
 	<supportedVersions>
+		<li>1.2</li>
 		<li>1.1</li>
 		<li>1.0</li>
 		<li>0.19</li>
 		<li>0.18</li>
 	</supportedVersions>
-	<description>A very simple patch-mod that reduces the time required to sow trees. Work required to sow trees is now 2000, instead of 4000.</description>
+	<description>A very simple patch-mod that reduces the time required to sow trees. Work required to sow trees is now 2000, instead of 4000.
+
+As a rule of thumb, it is unlikely that this mod will cause any problems with any future RW releases, but do tell me otherwise.</description>
 </ModMetaData>
